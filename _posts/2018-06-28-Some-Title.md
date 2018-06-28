@@ -1,3 +1,9 @@
+---
+title: "My Title"
+date: 2018-06-28
+---
+
+
 ## This is a blog post
 
 - basically
